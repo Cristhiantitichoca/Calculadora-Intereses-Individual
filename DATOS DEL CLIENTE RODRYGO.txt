@@ -1,0 +1,7 @@
+Prestamista: CRISTHIAN
+Cliente: RODRYGO
+Monto Inicial: 20000
+Tasa de Interés: 7.5% mensual
+Tiempo: 4 años
+Interés Simple Calculado: 72000.0
+----------------------------

@@ -1,0 +1,14 @@
+Prestamista: RICARDO
+Cliente: JOSE
+Monto Inicial: 789999
+Tasa de Interés: 6% mensual
+Tiempo: 2 años
+Interés Simple Calculado: 1137598.5599999998
+----------------------------
+Prestamista: RICARDO
+Cliente: JOSE
+Monto Inicial: 37899
+Tasa de Interés: 8% anual
+Tiempo: 2 meses
+Interés Simple Calculado: 505.32
+----------------------------

@@ -1,0 +1,7 @@
+Prestamista: RICARDO
+Cliente: CRISTHIAN
+Monto Inicial: 78329
+Tasa de Interés: 6% mensual
+Tiempo: 4 años
+Interés Simple Calculado: 225587.52
+----------------------------
